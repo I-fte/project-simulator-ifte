@@ -1,1 +1,1 @@
-# project-simulator-ifte
+Project Leftover Food Management System
